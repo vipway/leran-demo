@@ -1,6 +1,6 @@
 {
   "name": "lerna-demo-1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna-demo-2": "^1.0.1"
+    "lerna-demo-2": "^1.0.2"
+  },
+  "devDependencies": {
+    "kv-cli": "^0.0.4"
   }
 }
